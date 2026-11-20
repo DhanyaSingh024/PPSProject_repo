@@ -1,0 +1,6 @@
+*.exe
+*.out
+lost_found
+items.txt
+temp.txt
+.vscode/
